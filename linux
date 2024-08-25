@@ -2,5 +2,10 @@ add
 sub
 i am doing github in my pc
 an marging the code 
+<<<<<<< Updated upstream
 #first changes
 creating the account 
+=======
+[1;5s#first changes
+creaing the account 
+>>>>>>> Stashed changes
